@@ -1,0 +1,22 @@
+Day-2:
+1. Create a list and swap the second half of the list with the first half of the list and print this list on the screen.
+
+2. Ask the user to input a single digit integer to a variable 'n'. Then, print out all of the even numbers from 0 to n (including n)
+
+Day-3:
+User login application:
+    -Get Username and password values from the user.
+    -Check the values in an if statement and tell the user if they were successful.
+Extra:
+    -Try building the same user login application but this time,use a dictionary!
+    
+Day-4:
+    -Finding prime numbers between 0 and 100 using functions.
+    
+
+Day-5:
+Create three classes named Animals,Dogs and cat.Add some features to these classes.Create some functions with these attributes. Dont forget! You have to do it using inheritance.
+
+Final Project:
+Company Management System: Dwtermine the names and ages of employees,company mangagers, and the languages they can speak. Then write a program that will print the languages that any of the employees can
+speak. In this project, complete the project by creating two classes named employees and manager.
